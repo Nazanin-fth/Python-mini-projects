@@ -16,7 +16,7 @@ Created as a basic practice project to understand user input, conditional statem
 
 ---
 
-### ✅ ۲. بازی سنگ‌کاغذ‌قیچی – `rock-paper-scissors`
+### ✅ 2.rock-paper-scissors
 
 # ✊✋✌️ Rock Paper Scissors (Python Game)
 
